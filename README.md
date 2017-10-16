@@ -21,4 +21,4 @@ Dojo 2 是专为企业级 web 应用打造的一站式富客户端套件，其�
 13. [使用 Dojo 1 的 dijit 部件（待翻译）](https://doufuding.com/translate/9/translate/master/site/source/tutorials/1040_dojo1_dijits/index.md)
 14. [安装开发环境（待翻译）](https://doufuding.com/translate/9/translate/master/site/source/tutorials/1050_development_environment/index.md)
 15. [数据驱动部件（待翻译）](https://doufuding.com/translate/9/translate/master/site/source/tutorials/1060_data_driven_widgets/index.md)
-* [国际化（待翻译）](https://doufuding.com/projects/9/blob/master/site/source/tutorials/internationalization.md)
+16. [国际化（待翻译）](https://doufuding.com/projects/9/blob/master/site/source/tutorials/internationalization.md)

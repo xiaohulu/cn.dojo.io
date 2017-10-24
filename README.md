@@ -6,8 +6,15 @@ Dojo 2 是专为企业级 web 应用打造的一站式富客户端套件，其�
 
 ## 目录
 
+## 目录
+
+编码指南
+
 1. [行为准则（翻译中……）](https://doufuding.com/translate/11/translate/master/CODE_OF_CONDUCT.md)
 1. [Dojo 2 风格指南](https://doufuding.com/translate/11/translate/master/STYLE.md)
+
+基础教程
+
 1. [本地安装 Dojo 2](https://doufuding.com/translate/9/translate/master/site/source/tutorials/000_local_installation/index.md)
 1. [你的第一个 Dojo 2 应用程序](https://doufuding.com/translate/9/translate/master/site/source/tutorials/001_static_content/index.md)
 1. [Dojo 2 应用程序组件](https://doufuding.com/translate/9/translate/master/site/source/tutorials/002_creating_an_application/index.md)
@@ -22,6 +29,9 @@ Dojo 2 是专为企业级 web 应用打造的一站式富客户端套件，其�
 1. [路由](https://doufuding.com/translate/9/translate/master/site/source/tutorials/1030_routing/index.md)
 1. [使用 Dojo 1 的 dijit 部件（待翻译）](https://doufuding.com/translate/9/translate/master/site/source/tutorials/1040_dojo1_dijits/index.md)
 1. [安装开发环境](https://doufuding.com/translate/9/translate/master/site/source/tutorials/1050_development_environment/index.md)
-1. [数据驱动部件（翻译中……）](https://doufuding.com/translate/9/translate/master/site/source/tutorials/1060_data_driven_widgets/index.md)
+1. [数据驱动部件](https://doufuding.com/translate/9/translate/master/site/source/tutorials/1060_data_driven_widgets/index.md)
+
+参考文档
+
 1. [国际化（待翻译）](https://doufuding.com/projects/9/blob/master/site/source/tutorials/internationalization.md)
 

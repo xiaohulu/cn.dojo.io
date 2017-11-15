@@ -33,3 +33,7 @@ Dojo 2 是专为企业级 web 应用打造的一站式富客户端套件，其�
 
 1. [国际化（待翻译）](https://doufuding.com/projects/9/blob/master/site/source/tutorials/internationalization.md)
 
+
+Dojo 2 子项目 README.md 文件
+
+1. [路由(翻译中……)](https://doufuding.com/translate/15/translate/master/README.md) 共 1145 行，已翻译到 [232 行](https://doufuding.com/projects/15/blob/master/README.md#line-232)

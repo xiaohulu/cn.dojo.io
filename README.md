@@ -12,7 +12,7 @@ Dojo 2 是专为企业级 web 应用打造的一站式富客户端套件，其�
 基础教程
 
 1. [本地安装 Dojo](tutorials/000_local_installation/index.md)
-2. [你的第一个 Dojo 2 应用程序](https://doufuding.com/translate/9/translate/master/site/source/tutorials/001_static_content/index.md)
+2. [你的第一个 Dojo 应用程序](tutorials/001_static_content/index.md)
 3. [Dojo 2 应用程序组件](https://doufuding.com/translate/9/translate/master/site/source/tutorials/002_creating_an_application/index.md)
 4. [创建部件](https://doufuding.com/translate/9/translate/master/site/source/tutorials/003_creating_widgets/index.md)
 5. [响应事件](https://doufuding.com/translate/9/translate/master/site/source/tutorials/004_user_interactions/index.md)

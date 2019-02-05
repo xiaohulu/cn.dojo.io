@@ -4,12 +4,12 @@ Dojo 2 是专为企业级 web 应用打造的一站式富客户端套件，其�
 
 ## 目录
 
-编码指南
+### 编码指南
 
 1. [行为准则（翻译中……）](https://doufuding.com/translate/11/translate/master/CODE_OF_CONDUCT.md)
 2. [Dojo 2 风格指南](https://doufuding.com/translate/11/translate/master/STYLE.md)
 
-基础教程
+### 基础教程
 
 1. [本地安装 Dojo](tutorials/000_local_installation/index.md)
 2. [你的第一个 Dojo 应用程序](tutorials/001_static_content/index.md)
@@ -27,11 +27,11 @@ Dojo 2 是专为企业级 web 应用打造的一站式富客户端套件，其�
 14. [安装开发环境](https://doufuding.com/translate/9/translate/master/site/source/tutorials/1050_development_environment/index.md)
 15. [数据驱动部件](https://doufuding.com/translate/9/translate/master/site/source/tutorials/1060_data_driven_widgets/index.md)
 
-参考文档
+### 参考文档
 
 1. [国际化（待翻译）](https://doufuding.com/projects/9/blob/master/site/source/tutorials/internationalization.md)
 
-Dojo 2 子项目 README.md 文件
+### Dojo 项目 README.md 文件
 
-1. [路由(翻译中……)](https://doufuding.com/translate/15/translate/master/README.md) 共 1145 行，已翻译到 [232 行](https://doufuding.com/projects/15/blob/master/README.md#line-232)
+1. [路由](docs/routing/README.md)
 2. [存储](https://doufuding.com/translate/16/translate/master/README.md)

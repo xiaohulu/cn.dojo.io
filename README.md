@@ -34,4 +34,5 @@ Dojo 2 是专为企业级 web 应用打造的一站式富客户端套件，其�
 ### Dojo 项目 README.md 文件
 
 1. [路由](docs/routing/README.md)
-2. [存储](https://doufuding.com/translate/16/translate/master/README.md)
+2. [测试](docs/testing/README.md)
+3. [存储](https://doufuding.com/translate/16/translate/master/README.md)

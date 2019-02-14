@@ -2,7 +2,7 @@
 
 > [dojo/framework/src/testing/README.md](https://github.com/dojo/framework/blob/master/src/testing/README.md)
 >
-> commit 1c0d3bf3ad270e500d5d117d6667b2fabfb8924b
+> commit 4de8ee423a58be4454adb9274b55740904442b1d
 
 用于测试和断言 Dojo 部件期望的虚拟 DOM 和行为的简单 API。
 
@@ -327,7 +327,12 @@ it('should render the number when a number is passed as a property', () => {
 断言模板具有以下 API：
 
 ```ts
-insertChildren(selector: string, children: DNode[], type?: 'before' | 'after'): AssertionTemplateResult;
+insertBefore(selector: string, children: DNode[]): AssertionTemplateResult;
+insertAfter(selector: string, children: DNode[]): AssertionTemplateResult;
+insertSiblings(selector: string, children: DNode[], type?: 'before' | 'after'): AssertionTemplateResult;
+append(selector: string, children: DNode[]): AssertionTemplateResult;
+prepend(selector: string, children: DNode[]): AssertionTemplateResult;
+replace(selector: string, children: DNode[]): AssertionTemplateResult;
 setChildren(selector: string, children: DNode[], type?: 'prepend' | 'replace' | 'append'): AssertionTemplateResult;
 setProperty(selector: string, property: string, value: any): AssertionTemplateResult;
 getChildren(selector: string): DNode[];

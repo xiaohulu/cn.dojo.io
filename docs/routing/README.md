@@ -2,7 +2,7 @@
 
 > [dojo/framework/src/routing/README.md](https://github.com/dojo/framework/blob/master/src/routing/README.md)
 >
-> commit b682b06ace25eea86d190e56dd81042565b35ed1
+> commit 5e6f9d286eb3bca5da0f789f94d18a0c4a320849
 
 <!-- start-github-only -->
 
@@ -351,9 +351,3 @@ render() {
     ]);
 }
 ```
-
-<!-- doc-viewer-config
-{
-	"api": "docs/routing/api.json"
-}
--->
